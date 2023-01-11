@@ -4,7 +4,7 @@
 function App() {
 
   return (
-    <div className="App" }>
+    <div className="App">
       <div  style={{display: "flex",
         justifyContent: "space-between",
         margin: "1rem",
